@@ -1,9 +1,8 @@
-# WebApp boilerplate with React JS and Flask API
+# Boilerplate with React and Flask API
 
 ### Back-End Manual Installation:
 
 It is recomended to install the backend first, make sure you have Python 3.8, Pipenv and a database engine (Postgress recomended). If using Anaconda for environment management create new python env with following commands:
-
 
 If you already have python 3.8 skip step 1. This example uses Anaconda to change python enviroment.  
 
