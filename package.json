@@ -22,6 +22,10 @@
 		{
 			"name": "Ignacio Cordoba",
 			"url": "http://github.com/nachovz"
+		},
+		{
+			"name": "Gus Jimenez",
+			"url": "https://github.com/jgustavoj"
 		}
 	],
 	"license": "ISC",
@@ -51,8 +55,10 @@
 		"parse-github-url": "^1.0.2",
 		"prettier": "^2.5.1",
 		"remote-origin-url": "^2.0.0",
+		"sass": "^1.49.9",
+		"sass-loader": "^12.6.0",
 		"style-loader": "^3.3.1",
-		"webpack": "^5.65.0",
+		"webpack": "^5.70.0",
 		"webpack-cli": "^4.9.1",
 		"webpack-dev-server": "^4.6.0",
 		"webpack-merge": "^5.8.0"
@@ -73,6 +79,7 @@
 		]
 	},
 	"dependencies": {
+		"node-sass": "^7.0.1",
 		"prop-types": "^15.6.1",
 		"react": "^16.8.4",
 		"react-dom": "^16.8.4",
